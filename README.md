@@ -1,6 +1,6 @@
 # Deploy Springboot application with AWS RDS (MySQL) using AWS Elastic Beanstalk
 
-## [Click here to watch the video for demonstration.]()
+## [Click here to watch the video for demonstration.](https://youtu.be/wnUOJ3B6piY)
 
 In this project, I have demonstrated how to deploy and run Springboot application with Mysql database using AWS Elastic Beanstalk. 
 
